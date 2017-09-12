@@ -42,6 +42,8 @@
 	Q: So where are all my virtual boxes?
 	A: Windows: C:\Users\%userprofile%\.vagrant.d\boxes
 	
+	Q: Where can I find additional boxes?
+	A: https://app.vagrantup.com/boxes/search 
 	
 	
 	
